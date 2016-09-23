@@ -1,0 +1,3 @@
+name = Simeon
+size = 164 cm
+email = monkata_r@abv.bg
